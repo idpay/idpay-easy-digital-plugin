@@ -159,7 +159,7 @@ msgstr "پرداخت قبلا تایید شده است. کدخطا"
 msgid "Deposited to the recipient. code:"
 msgstr "به دریافت کننده واریز شده. کدخطا"
 
-msgid "Abuse of previous transactions. code:"
+msgid "Abuse Or Double-Spending of previous transactions. code:"
 msgstr "سواستفاده از تراکنش قبلی. کدخطا"
 
 msgid "Unexpected error. code:"
