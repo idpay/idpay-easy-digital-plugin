@@ -1,31 +1,33 @@
-=== IDPay for Easy Digital Downloads (EDD) ===
-Contributors: majidlotfinia, jazaali, imikiani, vispa, mnbp1371,MimDeveloper.Tv (Mohammad-Malek)
+=== Title & Descriptions ===
+
+title : IDPay for Easy Digital Downloads (EDD)
 Tags: idpay, easy digital downloads, download, edd, digital downloads, آیدی پی
 Stable tag: 2.2.0
 Tested up to: 6.0.2
+Contributors: MimDeveloper.Tv (Mohammad-Malek), imikiani, meysamrazmi, vispa
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-IDPay payment gateway for Easy Digital Downloads
 
 == Description ==
 
-After installing and enabling this plugin, you have the ability of selling files, music, picture, book via [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads) and [IDPay](https://idpay.ir) Payment gateway.
-
-You can obtain an API Key by going to your [dashboard](https://idpay.ir/dashboard/web-services) in your IDPay [account](https://idpay.ir/user).
+After installing and enabling this plugin, your customers can pay through IDPay gateway.
+For doing a transaction through IDPay gateway, you must have an API Key. You can obtain the API Key by going to your [dashboard](https://idpay.ir/dashboard/web-services) in your IDPay [account](https://idpay.ir/user).
 
 == Installation ==
 
-After creating a web service on https://idpay.ir and getting an API Key, follow this instruction:
-
+0. After creating a Web Service on https://idpay.ir and getting an API Key, follow this instruction:
 1. Activate plugin IDPay for Easy Digital Downloads.
 2. Go to Downloads > Settings > Payment Gateways.
 3. Check "IDPay" option in the Payment Gateways section.
 4. Enter your API Key in "IDPay payment gateway" section.
 
-After that, if a customer is going to purchase a downloadable product which is created by Easy Digital Downloads, The IDPay payment gateway will appear and she can pay with it.
+* If you need to use this plugin in Test mode, Select the "Sandbox" checkbox.
 
 == Changelog ==
+
+== 2.2.1, Nov 13, 2022 ==
+* Tested Up With Wordpress 6.1 And Easy Digital Downloads Plugin 3.1.0.1
 
 = 2.2.0, June 18, 2022 =
 * First Official Release
@@ -78,4 +80,4 @@ After that, if a customer is going to purchase a downloadable product which is c
 * PHP documentations.
 
 = 1.0, September 30, 2018 =
-* First Release
+* Develope release
