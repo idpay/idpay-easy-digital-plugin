@@ -2,8 +2,8 @@
 
 title : IDPay for Easy Digital Downloads (EDD)
 Tags: idpay, easy digital downloads, download, edd, digital downloads, آیدی پی
-Stable tag: 2.2.0
-Tested up to: 6.0.2
+Stable tag: 2.2.1
+Tested up to: 6.1
 Contributors: MimDeveloper.Tv (Mohammad-Malek), imikiani, meysamrazmi, vispa
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
